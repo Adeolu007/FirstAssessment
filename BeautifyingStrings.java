@@ -44,10 +44,7 @@ public class BeautifyingStrings {
 
 
     public static void main(String[] args) {
-//        System.out.println(checkFullStop("Adeiippp."));
-//        System.out.println(checkFullStop("Adeiippp"));
-//        System.out.println( capitalLetter("Adeolu"));
-//        System.out.println(capitalLetter("adeolu"));
+
         System.out.println(  beautifyString());
 
 
